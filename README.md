@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hi Humans!
+
+Jie Hong here, I am going to USS next Tuesday!
